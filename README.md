@@ -1,6 +1,6 @@
 <h1 align="center">Bem vindo ao Github-Explorer 👋</h1>
 
-> Navegue e explore repositórios do Github - Projeto feito em React
+> Navegue e explore repositórios do Github - Projeto feito em React e Typescript
 
 ## :construction_worker: Instalação
 
